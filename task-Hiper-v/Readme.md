@@ -59,7 +59,8 @@
 ![imagen7-03](./images/img07-03.jpeg)
 ![imagen7-04](./images/img07-04.jpeg)
 12. Nos conectarnos mediante SSH
-![imagen7-05](./images/img07-05.jpeg)
-![imagen7-06](./images/img07-06.jpeg)
-![imagen7-07](./images/img07-07.jpeg)
-![imagen7-08](./images/img07-08.jpeg)
+- Realizamos la conexion:
+	![imagen7-05](./images/img07-05.jpeg)
+	![imagen7-06](./images/img07-06.jpeg)
+	![imagen7-07](./images/img07-07.jpeg)
+	![imagen7-08](./images/img07-08.jpeg)
