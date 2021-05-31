@@ -29,5 +29,37 @@
 ![imagen5-6](./images/img05-06.png)
 	- **`8: seleccionamos la opcion "instalar un S.O. mas adelante" y presionamos "siguiente"`**
 ![imagen5-7](./images/img05-07.png)
-	- **`9: tenemos una descriptcion de la maquina virtual que estamos a punto de crear y presionamos "siguiente"`**
+	- **`9: tenemos una descriptcion de la maquina virtual que estamos a punto de crear y presionamos "finalizar"`**
 ![imagen5-8](./images/img05-08.png)
+
+5. Descargamos la imagen iso Para nuestro SO que instalaremos.
+![imagen6-1](./images/img06-01.png)
+6. Realizamos doble click a nuestra maquina que creamos anteriormente.
+![imagen6-2](./images/img06-02.png)
+7. Accedemos al menu de archivo y seleccionamos configuraciones.
+![imagen6-3](./images/img06-03.png)
+8. Igresamos al menu de controladora SCID, selecionamos nuestra ISO y guardamos cambios.
+![imagen6-4](./images/img06-04.png)
+9. Damos click en iniciar.
+![imagen6-5](./images/img06-05.png)
+10. Realizamos la instalacion del SO.
+![imagen6-5](./images/img06-06.png)
+![imagen6-6](./images/img06-06-1.png)
+![imagen6-7](./images/img06-07.png)
+![imagen6-8](./images/img06-08.png)
+![imagen6-9](./images/img06-09.png)
+![imagen6-10](./images/img06-10.png)
+![imagen6-11](./images/img06-11.png)
+![imagen6-12](./images/img06-12.png)
+![imagen6-13](./images/img06-13.png)
+![imagen6-14](./images/img06-14.png)
+![imagen7-01](./images/img07-01.jpeg)
+![imagen7-02](./images/img07-02.jpeg)
+11. Realizamos la configuracion para conectarnos via SSH a nuestra maquia virtual.
+![imagen7-03](./images/img07-03.jpeg)
+![imagen7-04](./images/img07-04.jpeg)
+12. Nos conectarnos mediante SSH
+![imagen7-05](./images/img07-05.jpeg)
+![imagen7-06](./images/img07-06.jpeg)
+![imagen7-07](./images/img07-07.jpeg)
+![imagen7-08](./images/img07-08.jpeg)
